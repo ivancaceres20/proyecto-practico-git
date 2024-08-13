@@ -1,0 +1,12 @@
+p :first-letter{ 
+  color:red;
+}
+p :first-line{ 
+  color:green;
+}
+p :after{ 
+  content:"Hola";
+}
+p :before{ 
+  content:"Por ejemplo:";
+}
